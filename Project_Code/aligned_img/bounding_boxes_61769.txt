@@ -1,0 +1,760 @@
+./aligned_img\emilia-clarke\1.png 167 103 368 383
+./aligned_img\emilia-clarke\2.png 256 22 369 186
+./aligned_img\emilia-clarke\3.png 364 113 645 482
+./aligned_img\emilia-clarke\4.png 133 50 269 247
+./aligned_img\emilia-clarke\5.png 479 31 650 259
+./aligned_img\emilia-clarke\6.png 119 40 183 126
+./aligned_img\kiran\opencv0.png 229 46 339 197
+./aligned_img\kiran\opencv1.png 227 50 337 198
+./aligned_img\kiran\opencv10.png 221 49 331 200
+./aligned_img\kiran\opencv100.png 246 51 352 198
+./aligned_img\kiran\opencv101.png 246 52 352 198
+./aligned_img\kiran\opencv102.png 246 52 352 198
+./aligned_img\kiran\opencv103.png 245 49 352 199
+./aligned_img\kiran\opencv104.png 245 49 352 199
+./aligned_img\kiran\opencv105.png 245 50 352 201
+./aligned_img\kiran\opencv106.png 245 50 352 201
+./aligned_img\kiran\opencv107.png 242 52 353 205
+./aligned_img\kiran\opencv108.png 242 52 353 205
+./aligned_img\kiran\opencv109.png 237 47 355 214
+./aligned_img\kiran\opencv11.png 224 54 328 194
+./aligned_img\kiran\opencv110.png 237 47 355 214
+./aligned_img\kiran\opencv111.png 232 44 357 217
+./aligned_img\kiran\opencv112.png 232 44 357 217
+./aligned_img\kiran\opencv113.png 229 41 359 222
+./aligned_img\kiran\opencv114.png 229 41 359 222
+./aligned_img\kiran\opencv115.png 222 33 363 233
+./aligned_img\kiran\opencv116.png 222 33 363 233
+./aligned_img\kiran\opencv117.png 223 46 370 238
+./aligned_img\kiran\opencv118.png 223 46 370 238
+./aligned_img\kiran\opencv119.png 217 36 369 249
+./aligned_img\kiran\opencv12.png 224 54 328 194
+./aligned_img\kiran\opencv120.png 217 36 369 249
+./aligned_img\kiran\opencv121.png 218 34 373 255
+./aligned_img\kiran\opencv122.png 218 34 373 255
+./aligned_img\kiran\opencv123.png 216 37 372 249
+./aligned_img\kiran\opencv124.png 216 37 372 249
+./aligned_img\kiran\opencv125.png 215 32 374 249
+./aligned_img\kiran\opencv126.png 215 32 374 249
+./aligned_img\kiran\opencv127.png 212 26 378 256
+./aligned_img\kiran\opencv128.png 212 26 378 256
+./aligned_img\kiran\opencv129.png 208 21 375 261
+./aligned_img\kiran\opencv13.png 226 53 329 195
+./aligned_img\kiran\opencv130.png 208 21 375 261
+./aligned_img\kiran\opencv131.png 209 23 380 261
+./aligned_img\kiran\opencv132.png 209 23 380 261
+./aligned_img\kiran\opencv133.png 208 20 380 256
+./aligned_img\kiran\opencv134.png 208 20 380 256
+./aligned_img\kiran\opencv135.png 206 17 383 266
+./aligned_img\kiran\opencv136.png 206 17 383 266
+./aligned_img\kiran\opencv137.png 202 12 379 271
+./aligned_img\kiran\opencv138.png 202 12 379 271
+./aligned_img\kiran\opencv139.png 205 16 377 268
+./aligned_img\kiran\opencv14.png 226 53 329 195
+./aligned_img\kiran\opencv140.png 205 16 377 268
+./aligned_img\kiran\opencv141.png 199 19 382 269
+./aligned_img\kiran\opencv142.png 199 19 382 269
+./aligned_img\kiran\opencv143.png 199 19 382 269
+./aligned_img\kiran\opencv144.png 199 22 382 265
+./aligned_img\kiran\opencv145.png 203 13 378 273
+./aligned_img\kiran\opencv146.png 203 13 378 273
+./aligned_img\kiran\opencv147.png 198 18 380 268
+./aligned_img\kiran\opencv148.png 198 18 380 268
+./aligned_img\kiran\opencv149.png 204 15 378 265
+./aligned_img\kiran\opencv15.png 226 54 327 193
+./aligned_img\kiran\opencv16.png 226 54 327 193
+./aligned_img\kiran\opencv17.png 225 54 330 195
+./aligned_img\kiran\opencv18.png 225 54 330 195
+./aligned_img\kiran\opencv19.png 226 47 337 195
+./aligned_img\kiran\opencv2.png 227 50 337 198
+./aligned_img\kiran\opencv20.png 226 47 337 195
+./aligned_img\kiran\opencv21.png 226 54 331 194
+./aligned_img\kiran\opencv22.png 226 54 331 194
+./aligned_img\kiran\opencv23.png 226 50 335 198
+./aligned_img\kiran\opencv24.png 226 50 335 198
+./aligned_img\kiran\opencv25.png 229 52 334 190
+./aligned_img\kiran\opencv26.png 229 52 334 190
+./aligned_img\kiran\opencv27.png 232 48 341 190
+./aligned_img\kiran\opencv28.png 232 48 341 190
+./aligned_img\kiran\opencv29.png 239 49 344 190
+./aligned_img\kiran\opencv3.png 226 51 332 199
+./aligned_img\kiran\opencv30.png 239 49 344 190
+./aligned_img\kiran\opencv31.png 243 48 350 192
+./aligned_img\kiran\opencv32.png 243 48 350 192
+./aligned_img\kiran\opencv33.png 249 51 352 190
+./aligned_img\kiran\opencv34.png 249 51 352 190
+./aligned_img\kiran\opencv35.png 253 50 355 194
+./aligned_img\kiran\opencv36.png 253 50 355 194
+./aligned_img\kiran\opencv37.png 251 47 353 193
+./aligned_img\kiran\opencv38.png 251 47 353 193
+./aligned_img\kiran\opencv39.png 252 55 354 192
+./aligned_img\kiran\opencv4.png 226 51 332 199
+./aligned_img\kiran\opencv40.png 252 55 354 192
+./aligned_img\kiran\opencv41.png 249 48 356 194
+./aligned_img\kiran\opencv42.png 249 48 356 194
+./aligned_img\kiran\opencv43.png 251 50 357 195
+./aligned_img\kiran\opencv44.png 251 50 357 195
+./aligned_img\kiran\opencv45.png 246 48 353 194
+./aligned_img\kiran\opencv46.png 246 48 353 194
+./aligned_img\kiran\opencv47.png 247 48 355 195
+./aligned_img\kiran\opencv48.png 247 48 355 195
+./aligned_img\kiran\opencv49.png 248 51 354 196
+./aligned_img\kiran\opencv5.png 224 55 330 199
+./aligned_img\kiran\opencv50.png 248 51 354 196
+./aligned_img\kiran\opencv51.png 248 52 354 193
+./aligned_img\kiran\opencv52.png 248 52 354 193
+./aligned_img\kiran\opencv53.png 246 53 352 193
+./aligned_img\kiran\opencv54.png 246 53 352 193
+./aligned_img\kiran\opencv55.png 245 51 351 193
+./aligned_img\kiran\opencv56.png 245 51 351 193
+./aligned_img\kiran\opencv57.png 246 52 352 194
+./aligned_img\kiran\opencv58.png 246 52 352 194
+./aligned_img\kiran\opencv59.png 248 51 355 196
+./aligned_img\kiran\opencv6.png 224 55 330 199
+./aligned_img\kiran\opencv60.png 248 51 355 196
+./aligned_img\kiran\opencv61.png 248 49 356 199
+./aligned_img\kiran\opencv62.png 248 49 356 199
+./aligned_img\kiran\opencv63.png 258 52 360 194
+./aligned_img\kiran\opencv64.png 258 52 360 194
+./aligned_img\kiran\opencv65.png 262 47 371 199
+./aligned_img\kiran\opencv66.png 262 47 371 199
+./aligned_img\kiran\opencv67.png 273 53 376 199
+./aligned_img\kiran\opencv68.png 273 53 376 199
+./aligned_img\kiran\opencv69.png 280 57 380 198
+./aligned_img\kiran\opencv7.png 222 55 329 199
+./aligned_img\kiran\opencv70.png 280 57 380 198
+./aligned_img\kiran\opencv71.png 281 56 381 200
+./aligned_img\kiran\opencv72.png 281 56 381 200
+./aligned_img\kiran\opencv73.png 280 56 380 203
+./aligned_img\kiran\opencv74.png 280 56 380 203
+./aligned_img\kiran\opencv75.png 283 57 380 199
+./aligned_img\kiran\opencv76.png 283 57 380 199
+./aligned_img\kiran\opencv77.png 282 55 382 201
+./aligned_img\kiran\opencv78.png 282 55 382 201
+./aligned_img\kiran\opencv79.png 282 58 381 201
+./aligned_img\kiran\opencv8.png 222 55 329 199
+./aligned_img\kiran\opencv80.png 282 58 381 201
+./aligned_img\kiran\opencv81.png 279 54 380 201
+./aligned_img\kiran\opencv82.png 279 54 380 201
+./aligned_img\kiran\opencv83.png 277 56 378 201
+./aligned_img\kiran\opencv84.png 277 56 378 201
+./aligned_img\kiran\opencv85.png 274 49 379 195
+./aligned_img\kiran\opencv86.png 274 49 379 195
+./aligned_img\kiran\opencv87.png 264 55 372 199
+./aligned_img\kiran\opencv88.png 264 55 372 199
+./aligned_img\kiran\opencv89.png 258 55 366 200
+./aligned_img\kiran\opencv9.png 221 49 331 200
+./aligned_img\kiran\opencv90.png 258 55 366 200
+./aligned_img\kiran\opencv91.png 255 54 359 195
+./aligned_img\kiran\opencv92.png 255 54 359 195
+./aligned_img\kiran\opencv93.png 249 54 355 199
+./aligned_img\kiran\opencv94.png 249 54 355 199
+./aligned_img\kiran\opencv95.png 248 53 353 198
+./aligned_img\kiran\opencv96.png 248 53 353 198
+./aligned_img\kiran\opencv97.png 248 53 354 197
+./aligned_img\kiran\opencv98.png 248 53 354 197
+./aligned_img\kiran\opencv99.png 246 51 352 198
+./aligned_img\kit-harington\1.png 254 182 579 606
+./aligned_img\kit-harington\2.png 477 456 1399 1657
+./aligned_img\kit-harington\3.png 278 83 446 302
+./aligned_img\kit-harington\4.png 422 83 715 462
+./aligned_img\kit-harington\5.png 218 117 440 414
+./aligned_img\kit-harington\6.png 48 20 249 267
+./aligned_img\pawan\p1.png 141 116 364 416
+./aligned_img\pawan\p10.png 343 214 608 571
+./aligned_img\pawan\p11.png 98 199 523 793
+./aligned_img\pawan\p12.png 134 176 611 829
+./aligned_img\pawan\p13.png 64 143 453 714
+./aligned_img\pawan\p14.png 61 185 534 838
+./aligned_img\pawan\p16.png 78 180 514 774
+./aligned_img\pawan\p2.png 168 135 436 474
+./aligned_img\pawan\p3.png 161 69 379 330
+./aligned_img\pawan\p4.png 188 135 436 471
+./aligned_img\pawan\p5.png 193 107 430 433
+./aligned_img\pawan\p6.png 164 80 375 316
+./aligned_img\pawan\p7.png 201 176 510 615
+./aligned_img\pawan\p8.png 187 189 491 604
+./aligned_img\pawan\p9.png 268 174 588 625
+./aligned_img\pawan\pawan0.png 243 61 353 202
+./aligned_img\pawan\pawan1.png 246 61 351 204
+./aligned_img\pawan\pawan10.png 232 75 341 205
+./aligned_img\pawan\pawan100.png 236 61 346 208
+./aligned_img\pawan\pawan101.png 236 61 346 208
+./aligned_img\pawan\pawan102.png 241 65 346 208
+./aligned_img\pawan\pawan103.png 241 65 346 208
+./aligned_img\pawan\pawan104.png 236 62 346 208
+./aligned_img\pawan\pawan105.png 236 62 346 208
+./aligned_img\pawan\pawan106.png 241 65 348 210
+./aligned_img\pawan\pawan107.png 241 65 348 210
+./aligned_img\pawan\pawan108.png 240 69 349 211
+./aligned_img\pawan\pawan109.png 240 69 349 211
+./aligned_img\pawan\pawan11.png 229 70 336 202
+./aligned_img\pawan\pawan110.png 242 68 347 208
+./aligned_img\pawan\pawan111.png 242 68 347 208
+./aligned_img\pawan\pawan112.png 240 63 347 208
+./aligned_img\pawan\pawan113.png 240 63 347 208
+./aligned_img\pawan\pawan114.png 240 59 347 210
+./aligned_img\pawan\pawan115.png 240 59 347 210
+./aligned_img\pawan\pawan116.png 240 59 347 210
+./aligned_img\pawan\pawan117.png 241 63 349 210
+./aligned_img\pawan\pawan118.png 242 66 349 212
+./aligned_img\pawan\pawan119.png 242 66 349 212
+./aligned_img\pawan\pawan12.png 229 70 336 202
+./aligned_img\pawan\pawan120.png 243 64 349 207
+./aligned_img\pawan\pawan121.png 243 64 349 207
+./aligned_img\pawan\pawan122.png 242 61 349 206
+./aligned_img\pawan\pawan123.png 242 61 349 206
+./aligned_img\pawan\pawan124.png 242 62 346 205
+./aligned_img\pawan\pawan125.png 242 62 346 205
+./aligned_img\pawan\pawan126.png 243 61 349 202
+./aligned_img\pawan\pawan127.png 243 61 349 202
+./aligned_img\pawan\pawan128.png 243 61 349 202
+./aligned_img\pawan\pawan129.png 243 61 348 200
+./aligned_img\pawan\pawan13.png 225 64 331 199
+./aligned_img\pawan\pawan130.png 242 61 345 199
+./aligned_img\pawan\pawan131.png 242 61 345 199
+./aligned_img\pawan\pawan132.png 241 57 348 202
+./aligned_img\pawan\pawan133.png 241 57 348 202
+./aligned_img\pawan\pawan134.png 237 55 347 200
+./aligned_img\pawan\pawan135.png 237 55 347 200
+./aligned_img\pawan\pawan136.png 237 63 347 209
+./aligned_img\pawan\pawan137.png 237 63 347 209
+./aligned_img\pawan\pawan138.png 234 59 348 212
+./aligned_img\pawan\pawan139.png 234 59 348 212
+./aligned_img\pawan\pawan14.png 225 64 331 199
+./aligned_img\pawan\pawan140.png 234 59 348 212
+./aligned_img\pawan\pawan141.png 234 63 348 220
+./aligned_img\pawan\pawan142.png 228 65 349 228
+./aligned_img\pawan\pawan143.png 228 65 349 228
+./aligned_img\pawan\pawan144.png 224 62 348 233
+./aligned_img\pawan\pawan145.png 224 62 348 233
+./aligned_img\pawan\pawan146.png 216 67 353 249
+./aligned_img\pawan\pawan147.png 216 67 353 249
+./aligned_img\pawan\pawan148.png 213 65 356 260
+./aligned_img\pawan\pawan149.png 213 65 356 260
+./aligned_img\pawan\pawan15.png 226 70 324 194
+./aligned_img\pawan\pawan16.png 226 70 324 194
+./aligned_img\pawan\pawan17.png 214 65 312 194
+./aligned_img\pawan\pawan18.png 214 65 312 194
+./aligned_img\pawan\pawan19.png 283 97 346 172
+./aligned_img\pawan\pawan2.png 246 61 351 204
+./aligned_img\pawan\pawan20.png 283 97 346 172
+./aligned_img\pawan\pawan21.png 202 71 297 200
+./aligned_img\pawan\pawan22.png 202 71 297 200
+./aligned_img\pawan\pawan23.png 274 101 339 177
+./aligned_img\pawan\pawan24.png 274 101 339 177
+./aligned_img\pawan\pawan25.png 189 71 286 206
+./aligned_img\pawan\pawan26.png 189 71 286 206
+./aligned_img\pawan\pawan27.png 192 78 282 203
+./aligned_img\pawan\pawan28.png 192 78 282 203
+./aligned_img\pawan\pawan29.png 189 77 283 209
+./aligned_img\pawan\pawan3.png 241 52 350 203
+./aligned_img\pawan\pawan30.png 189 77 283 209
+./aligned_img\pawan\pawan31.png 192 81 279 207
+./aligned_img\pawan\pawan32.png 192 81 279 207
+./aligned_img\pawan\pawan33.png 186 81 278 216
+./aligned_img\pawan\pawan34.png 186 81 278 216
+./aligned_img\pawan\pawan35.png 189 73 281 207
+./aligned_img\pawan\pawan36.png 189 73 281 207
+./aligned_img\pawan\pawan37.png 197 75 288 202
+./aligned_img\pawan\pawan38.png 197 75 288 202
+./aligned_img\pawan\pawan39.png 199 67 294 193
+./aligned_img\pawan\pawan4.png 241 52 350 203
+./aligned_img\pawan\pawan40.png 199 67 294 193
+./aligned_img\pawan\pawan41.png 199 61 309 192
+./aligned_img\pawan\pawan42.png 199 61 309 192
+./aligned_img\pawan\pawan43.png 214 63 328 204
+./aligned_img\pawan\pawan44.png 214 63 328 204
+./aligned_img\pawan\pawan45.png 224 71 333 203
+./aligned_img\pawan\pawan46.png 224 71 333 203
+./aligned_img\pawan\pawan47.png 229 55 342 201
+./aligned_img\pawan\pawan48.png 229 55 342 201
+./aligned_img\pawan\pawan49.png 240 61 345 199
+./aligned_img\pawan\pawan5.png 246 63 353 203
+./aligned_img\pawan\pawan50.png 240 61 345 199
+./aligned_img\pawan\pawan51.png 238 61 346 197
+./aligned_img\pawan\pawan52.png 238 61 346 197
+./aligned_img\pawan\pawan53.png 244 56 350 201
+./aligned_img\pawan\pawan54.png 244 56 350 201
+./aligned_img\pawan\pawan55.png 242 68 344 200
+./aligned_img\pawan\pawan56.png 242 68 344 200
+./aligned_img\pawan\pawan57.png 244 61 350 201
+./aligned_img\pawan\pawan58.png 244 61 350 201
+./aligned_img\pawan\pawan59.png 244 61 351 204
+./aligned_img\pawan\pawan6.png 246 63 353 203
+./aligned_img\pawan\pawan60.png 244 61 351 204
+./aligned_img\pawan\pawan61.png 245 62 350 204
+./aligned_img\pawan\pawan62.png 245 62 350 204
+./aligned_img\pawan\pawan63.png 244 60 350 203
+./aligned_img\pawan\pawan64.png 244 60 350 203
+./aligned_img\pawan\pawan65.png 245 68 355 207
+./aligned_img\pawan\pawan66.png 245 68 355 207
+./aligned_img\pawan\pawan67.png 245 65 357 208
+./aligned_img\pawan\pawan68.png 245 65 357 208
+./aligned_img\pawan\pawan69.png 251 80 359 209
+./aligned_img\pawan\pawan7.png 236 61 351 206
+./aligned_img\pawan\pawan70.png 251 80 359 209
+./aligned_img\pawan\pawan71.png 260 74 364 210
+./aligned_img\pawan\pawan72.png 260 74 364 210
+./aligned_img\pawan\pawan73.png 263 67 369 212
+./aligned_img\pawan\pawan74.png 263 67 369 212
+./aligned_img\pawan\pawan75.png 270 61 369 207
+./aligned_img\pawan\pawan76.png 270 61 369 207
+./aligned_img\pawan\pawan77.png 274 62 372 203
+./aligned_img\pawan\pawan78.png 274 62 372 203
+./aligned_img\pawan\pawan79.png 272 60 371 206
+./aligned_img\pawan\pawan8.png 236 61 351 206
+./aligned_img\pawan\pawan80.png 272 60 371 206
+./aligned_img\pawan\pawan81.png 274 79 369 206
+./aligned_img\pawan\pawan82.png 274 79 369 206
+./aligned_img\pawan\pawan83.png 258 67 367 206
+./aligned_img\pawan\pawan84.png 258 67 367 206
+./aligned_img\pawan\pawan85.png 260 81 364 205
+./aligned_img\pawan\pawan86.png 260 81 364 205
+./aligned_img\pawan\pawan87.png 246 66 358 206
+./aligned_img\pawan\pawan88.png 246 66 358 206
+./aligned_img\pawan\pawan89.png 245 74 353 206
+./aligned_img\pawan\pawan9.png 232 75 341 205
+./aligned_img\pawan\pawan90.png 245 74 353 206
+./aligned_img\pawan\pawan91.png 246 62 353 205
+./aligned_img\pawan\pawan92.png 246 62 353 205
+./aligned_img\pawan\pawan93.png 241 57 350 209
+./aligned_img\pawan\pawan94.png 244 62 349 206
+./aligned_img\pawan\pawan95.png 244 62 349 206
+./aligned_img\pawan\pawan96.png 245 63 351 210
+./aligned_img\pawan\pawan97.png 245 63 351 210
+./aligned_img\pawan\pawan98.png 240 65 348 209
+./aligned_img\pawan\pawan99.png 240 65 348 209
+./aligned_img\praneeth\1.png 252 143 500 476
+./aligned_img\praneeth\2.png 182 83 290 201
+./aligned_img\praneeth\3.png 745 340 1399 1210
+./aligned_img\praneeth\4.png 649 597 1610 1864
+./aligned_img\praneeth\5.png 138 113 347 377
+./aligned_img\praneeth\6.png 60 120 272 382
+./aligned_img\praneeth\7.png 117 141 318 396
+./aligned_img\praneeth\8.png 64 106 220 309
+./aligned_img\praneeth\a.png 241 232 995 1274
+./aligned_img\praneeth\b.png 177 198 928 1241
+./aligned_img\praneeth\c.png 347 193 1125 1341
+./aligned_img\praneeth\d.png 223 408 601 919
+./aligned_img\praneeth\e (1).png 87 98 598 787
+./aligned_img\praneeth\f.png 101 142 562 737
+./aligned_img\praneeth\g.png 287 488 817 1143
+./aligned_img\praneeth\h.png 483 361 931 957
+./aligned_img\praneeth\i.png 167 221 642 874
+./aligned_img\praneeth\j.png 34 211 515 854
+./aligned_img\praneeth\k.png 262 341 745 953
+./aligned_img\praneeth\l.png 135 198 641 862
+./aligned_img\praneeth\n.png 75 187 581 847
+./aligned_img\praneeth\o.png 96 189 558 808
+./aligned_img\praneeth\praneeth0.png 255 171 432 400
+./aligned_img\praneeth\praneeth1.png 256 181 416 394
+./aligned_img\praneeth\praneeth10.png 254 173 426 401
+./aligned_img\praneeth\praneeth11.png 259 172 426 393
+./aligned_img\praneeth\praneeth12.png 259 172 426 393
+./aligned_img\praneeth\praneeth13.png 259 174 430 396
+./aligned_img\praneeth\praneeth14.png 259 174 430 396
+./aligned_img\praneeth\praneeth15.png 258 170 425 393
+./aligned_img\praneeth\praneeth16.png 258 170 425 393
+./aligned_img\praneeth\praneeth17.png 258 170 424 391
+./aligned_img\praneeth\praneeth18.png 258 170 424 391
+./aligned_img\praneeth\praneeth19.png 255 176 427 399
+./aligned_img\praneeth\praneeth2.png 256 181 416 394
+./aligned_img\praneeth\praneeth20.png 255 176 427 399
+./aligned_img\praneeth\praneeth21.png 249 178 414 400
+./aligned_img\praneeth\praneeth22.png 249 178 414 400
+./aligned_img\praneeth\praneeth23.png 253 183 417 400
+./aligned_img\praneeth\praneeth24.png 253 183 417 400
+./aligned_img\praneeth\praneeth25.png 249 180 412 398
+./aligned_img\praneeth\praneeth26.png 249 180 412 398
+./aligned_img\praneeth\praneeth27.png 253 184 416 392
+./aligned_img\praneeth\praneeth28.png 253 184 416 392
+./aligned_img\praneeth\praneeth29.png 251 180 414 399
+./aligned_img\praneeth\praneeth3.png 256 182 417 395
+./aligned_img\praneeth\praneeth30.png 251 180 414 399
+./aligned_img\praneeth\praneeth31.png 255 181 415 395
+./aligned_img\praneeth\praneeth32.png 255 181 415 395
+./aligned_img\praneeth\praneeth33.png 252 175 429 404
+./aligned_img\praneeth\praneeth34.png 252 175 429 404
+./aligned_img\praneeth\praneeth35.png 251 177 427 397
+./aligned_img\praneeth\praneeth36.png 251 177 427 397
+./aligned_img\praneeth\praneeth37.png 255 177 427 397
+./aligned_img\praneeth\praneeth38.png 255 177 427 397
+./aligned_img\praneeth\praneeth39.png 255 178 425 396
+./aligned_img\praneeth\praneeth4.png 256 182 417 395
+./aligned_img\praneeth\praneeth40.png 255 178 425 396
+./aligned_img\praneeth\praneeth41.png 258 175 427 398
+./aligned_img\praneeth\praneeth42.png 258 175 427 398
+./aligned_img\praneeth\praneeth43.png 258 177 423 397
+./aligned_img\praneeth\praneeth44.png 258 177 423 397
+./aligned_img\praneeth\praneeth45.png 258 176 426 397
+./aligned_img\praneeth\praneeth46.png 258 176 426 397
+./aligned_img\praneeth\praneeth47.png 257 178 427 396
+./aligned_img\praneeth\praneeth48.png 257 178 427 396
+./aligned_img\praneeth\praneeth49.png 257 176 425 397
+./aligned_img\praneeth\praneeth5.png 257 183 415 390
+./aligned_img\praneeth\praneeth50.png 222 224 395 438
+./aligned_img\praneeth\praneeth51.png 221 223 395 438
+./aligned_img\praneeth\praneeth52.png 221 223 395 438
+./aligned_img\praneeth\praneeth53.png 223 225 391 436
+./aligned_img\praneeth\praneeth54.png 223 225 391 436
+./aligned_img\praneeth\praneeth55.png 228 228 392 433
+./aligned_img\praneeth\praneeth56.png 228 228 392 433
+./aligned_img\praneeth\praneeth57.png 219 225 389 437
+./aligned_img\praneeth\praneeth58.png 219 225 389 437
+./aligned_img\praneeth\praneeth59.png 227 227 387 436
+./aligned_img\praneeth\praneeth6.png 257 183 415 390
+./aligned_img\praneeth\praneeth60.png 227 227 387 436
+./aligned_img\praneeth\praneeth61.png 215 233 390 444
+./aligned_img\praneeth\praneeth62.png 215 233 390 444
+./aligned_img\praneeth\praneeth63.png 224 230 382 429
+./aligned_img\praneeth\praneeth64.png 224 230 382 429
+./aligned_img\praneeth\praneeth65.png 221 230 383 433
+./aligned_img\praneeth\praneeth66.png 221 230 383 433
+./aligned_img\praneeth\praneeth67.png 220 233 381 434
+./aligned_img\praneeth\praneeth68.png 220 233 381 434
+./aligned_img\praneeth\praneeth69.png 220 235 388 439
+./aligned_img\praneeth\praneeth7.png 250 178 415 398
+./aligned_img\praneeth\praneeth70.png 220 235 388 439
+./aligned_img\praneeth\praneeth71.png 220 231 385 439
+./aligned_img\praneeth\praneeth72.png 220 231 385 439
+./aligned_img\praneeth\praneeth73.png 222 240 384 442
+./aligned_img\praneeth\praneeth74.png 222 240 384 442
+./aligned_img\praneeth\praneeth75.png 221 233 385 441
+./aligned_img\praneeth\praneeth76.png 221 233 385 441
+./aligned_img\praneeth\praneeth77.png 218 231 386 441
+./aligned_img\praneeth\praneeth78.png 218 231 386 441
+./aligned_img\praneeth\praneeth79.png 220 229 386 437
+./aligned_img\praneeth\praneeth8.png 250 178 415 398
+./aligned_img\praneeth\praneeth80.png 220 229 386 437
+./aligned_img\praneeth\praneeth81.png 226 229 382 437
+./aligned_img\praneeth\praneeth82.png 226 229 382 437
+./aligned_img\praneeth\praneeth83.png 224 235 389 443
+./aligned_img\praneeth\praneeth84.png 224 235 389 443
+./aligned_img\praneeth\praneeth85.png 217 230 386 446
+./aligned_img\praneeth\praneeth86.png 217 230 386 446
+./aligned_img\praneeth\praneeth87.png 219 234 385 440
+./aligned_img\praneeth\praneeth88.png 219 234 385 440
+./aligned_img\praneeth\praneeth89.png 223 229 391 436
+./aligned_img\praneeth\praneeth9.png 254 173 426 401
+./aligned_img\praneeth\praneeth90.png 223 229 391 436
+./aligned_img\praneeth\praneeth91.png 225 231 393 437
+./aligned_img\praneeth\praneeth92.png 225 231 393 437
+./aligned_img\praneeth\praneeth93.png 222 230 391 441
+./aligned_img\praneeth\praneeth94.png 222 230 391 441
+./aligned_img\praneeth\praneeth95.png 221 228 392 441
+./aligned_img\praneeth\praneeth96.png 221 228 392 441
+./aligned_img\praneeth\praneeth97.png 229 236 394 448
+./aligned_img\praneeth\praneeth98.png 229 236 394 448
+./aligned_img\praneeth\praneeth99.png 222 227 391 446
+./aligned_img\prashanth\prashanth0.png 198 84 302 224
+./aligned_img\prashanth\prashanth1.png 197 82 302 222
+./aligned_img\prashanth\prashanth10.png 199 84 302 224
+./aligned_img\prashanth\prashanth100.png 164 83 265 218
+./aligned_img\prashanth\prashanth101.png 165 80 268 210
+./aligned_img\prashanth\prashanth102.png 165 80 268 210
+./aligned_img\prashanth\prashanth103.png 163 81 265 214
+./aligned_img\prashanth\prashanth104.png 163 81 265 214
+./aligned_img\prashanth\prashanth105.png 166 82 266 214
+./aligned_img\prashanth\prashanth106.png 166 82 266 214
+./aligned_img\prashanth\prashanth107.png 166 78 270 216
+./aligned_img\prashanth\prashanth108.png 166 78 270 216
+./aligned_img\prashanth\prashanth109.png 170 84 276 219
+./aligned_img\prashanth\prashanth11.png 199 83 302 225
+./aligned_img\prashanth\prashanth110.png 170 84 276 219
+./aligned_img\prashanth\prashanth111.png 179 83 285 217
+./aligned_img\prashanth\prashanth112.png 179 83 285 217
+./aligned_img\prashanth\prashanth113.png 185 88 292 222
+./aligned_img\prashanth\prashanth114.png 185 88 292 222
+./aligned_img\prashanth\prashanth115.png 191 79 297 221
+./aligned_img\prashanth\prashanth116.png 191 79 297 221
+./aligned_img\prashanth\prashanth117.png 196 78 300 219
+./aligned_img\prashanth\prashanth118.png 196 78 300 219
+./aligned_img\prashanth\prashanth119.png 196 80 302 222
+./aligned_img\prashanth\prashanth12.png 199 83 302 225
+./aligned_img\prashanth\prashanth120.png 196 80 302 222
+./aligned_img\prashanth\prashanth121.png 199 77 301 219
+./aligned_img\prashanth\prashanth122.png 199 77 301 219
+./aligned_img\prashanth\prashanth123.png 198 80 303 222
+./aligned_img\prashanth\prashanth124.png 198 80 303 222
+./aligned_img\prashanth\prashanth125.png 203 80 304 220
+./aligned_img\prashanth\prashanth126.png 203 80 304 220
+./aligned_img\prashanth\prashanth127.png 201 80 304 219
+./aligned_img\prashanth\prashanth128.png 201 80 304 219
+./aligned_img\prashanth\prashanth129.png 202 80 304 219
+./aligned_img\prashanth\prashanth13.png 198 84 302 224
+./aligned_img\prashanth\prashanth130.png 202 80 304 219
+./aligned_img\prashanth\prashanth131.png 200 81 303 218
+./aligned_img\prashanth\prashanth132.png 200 81 303 218
+./aligned_img\prashanth\prashanth133.png 201 88 303 218
+./aligned_img\prashanth\prashanth134.png 201 88 303 218
+./aligned_img\prashanth\prashanth135.png 203 81 307 220
+./aligned_img\prashanth\prashanth136.png 203 81 307 220
+./aligned_img\prashanth\prashanth137.png 213 90 311 215
+./aligned_img\prashanth\prashanth138.png 213 90 311 215
+./aligned_img\prashanth\prashanth139.png 215 81 310 218
+./aligned_img\prashanth\prashanth14.png 198 84 302 224
+./aligned_img\prashanth\prashanth140.png 215 81 310 218
+./aligned_img\prashanth\prashanth141.png 215 80 315 217
+./aligned_img\prashanth\prashanth142.png 215 80 315 217
+./aligned_img\prashanth\prashanth143.png 215 80 315 217
+./aligned_img\prashanth\prashanth144.png 214 78 317 215
+./aligned_img\prashanth\prashanth145.png 214 76 313 217
+./aligned_img\prashanth\prashanth146.png 214 76 313 217
+./aligned_img\prashanth\prashanth147.png 215 81 316 216
+./aligned_img\prashanth\prashanth148.png 215 81 316 216
+./aligned_img\prashanth\prashanth149.png 218 84 318 222
+./aligned_img\prashanth\prashanth15.png 198 84 304 226
+./aligned_img\prashanth\prashanth16.png 198 84 304 226
+./aligned_img\prashanth\prashanth17.png 199 82 301 224
+./aligned_img\prashanth\prashanth18.png 199 82 301 224
+./aligned_img\prashanth\prashanth19.png 198 85 303 225
+./aligned_img\prashanth\prashanth2.png 197 82 302 222
+./aligned_img\prashanth\prashanth20.png 198 85 303 225
+./aligned_img\prashanth\prashanth21.png 201 82 304 225
+./aligned_img\prashanth\prashanth22.png 201 82 304 225
+./aligned_img\prashanth\prashanth23.png 199 82 302 223
+./aligned_img\prashanth\prashanth24.png 199 82 302 223
+./aligned_img\prashanth\prashanth25.png 199 81 303 224
+./aligned_img\prashanth\prashanth26.png 199 81 303 224
+./aligned_img\prashanth\prashanth27.png 200 83 302 224
+./aligned_img\prashanth\prashanth28.png 200 83 302 224
+./aligned_img\prashanth\prashanth29.png 197 82 301 224
+./aligned_img\prashanth\prashanth3.png 197 84 302 225
+./aligned_img\prashanth\prashanth30.png 197 82 301 224
+./aligned_img\prashanth\prashanth31.png 198 81 302 224
+./aligned_img\prashanth\prashanth32.png 198 81 302 224
+./aligned_img\prashanth\prashanth33.png 199 81 303 223
+./aligned_img\prashanth\prashanth34.png 199 81 303 223
+./aligned_img\prashanth\prashanth35.png 201 83 305 220
+./aligned_img\prashanth\prashanth36.png 201 83 305 220
+./aligned_img\prashanth\prashanth37.png 203 78 305 214
+./aligned_img\prashanth\prashanth38.png 203 78 305 214
+./aligned_img\prashanth\prashanth39.png 208 81 313 221
+./aligned_img\prashanth\prashanth4.png 197 84 302 225
+./aligned_img\prashanth\prashanth40.png 208 81 313 221
+./aligned_img\prashanth\prashanth41.png 216 86 317 222
+./aligned_img\prashanth\prashanth42.png 216 86 317 222
+./aligned_img\prashanth\prashanth43.png 221 88 321 220
+./aligned_img\prashanth\prashanth44.png 221 88 321 220
+./aligned_img\prashanth\prashanth45.png 222 90 319 220
+./aligned_img\prashanth\prashanth46.png 222 90 319 220
+./aligned_img\prashanth\prashanth47.png 221 87 319 219
+./aligned_img\prashanth\prashanth48.png 221 87 319 219
+./aligned_img\prashanth\prashanth49.png 220 86 318 218
+./aligned_img\prashanth\prashanth5.png 198 84 300 223
+./aligned_img\prashanth\prashanth50.png 220 86 318 218
+./aligned_img\prashanth\prashanth51.png 219 86 315 221
+./aligned_img\prashanth\prashanth52.png 219 86 315 221
+./aligned_img\prashanth\prashanth53.png 214 78 314 222
+./aligned_img\prashanth\prashanth54.png 214 78 314 222
+./aligned_img\prashanth\prashanth55.png 216 84 315 220
+./aligned_img\prashanth\prashanth56.png 216 84 315 220
+./aligned_img\prashanth\prashanth57.png 211 84 307 219
+./aligned_img\prashanth\prashanth58.png 211 84 307 219
+./aligned_img\prashanth\prashanth59.png 208 80 311 223
+./aligned_img\prashanth\prashanth6.png 198 84 300 223
+./aligned_img\prashanth\prashanth60.png 208 80 311 223
+./aligned_img\prashanth\prashanth61.png 206 76 309 220
+./aligned_img\prashanth\prashanth62.png 206 76 309 220
+./aligned_img\prashanth\prashanth63.png 211 80 316 218
+./aligned_img\prashanth\prashanth64.png 211 80 316 218
+./aligned_img\prashanth\prashanth65.png 220 85 323 220
+./aligned_img\prashanth\prashanth66.png 220 85 323 220
+./aligned_img\prashanth\prashanth67.png 227 83 331 228
+./aligned_img\prashanth\prashanth68.png 227 83 331 228
+./aligned_img\prashanth\prashanth69.png 230 87 324 223
+./aligned_img\prashanth\prashanth7.png 199 84 301 223
+./aligned_img\prashanth\prashanth70.png 230 87 324 223
+./aligned_img\prashanth\prashanth71.png 228 90 327 223
+./aligned_img\prashanth\prashanth72.png 228 90 327 223
+./aligned_img\prashanth\prashanth73.png 228 90 327 220
+./aligned_img\prashanth\prashanth74.png 228 90 327 220
+./aligned_img\prashanth\prashanth75.png 224 85 320 215
+./aligned_img\prashanth\prashanth76.png 224 85 320 215
+./aligned_img\prashanth\prashanth77.png 214 87 312 220
+./aligned_img\prashanth\prashanth78.png 214 87 312 220
+./aligned_img\prashanth\prashanth79.png 204 89 308 215
+./aligned_img\prashanth\prashanth8.png 199 84 301 223
+./aligned_img\prashanth\prashanth80.png 204 89 308 215
+./aligned_img\prashanth\prashanth81.png 192 80 298 219
+./aligned_img\prashanth\prashanth82.png 192 80 298 219
+./aligned_img\prashanth\prashanth83.png 173 74 284 216
+./aligned_img\prashanth\prashanth84.png 173 74 284 216
+./aligned_img\prashanth\prashanth85.png 172 76 275 214
+./aligned_img\prashanth\prashanth86.png 172 76 275 214
+./aligned_img\prashanth\prashanth87.png 171 73 274 216
+./aligned_img\prashanth\prashanth88.png 171 73 274 216
+./aligned_img\prashanth\prashanth89.png 168 80 268 214
+./aligned_img\prashanth\prashanth9.png 199 84 302 224
+./aligned_img\prashanth\prashanth90.png 168 80 268 214
+./aligned_img\prashanth\prashanth91.png 166 75 269 213
+./aligned_img\prashanth\prashanth92.png 166 75 269 213
+./aligned_img\prashanth\prashanth93.png 166 77 269 215
+./aligned_img\prashanth\prashanth94.png 166 77 269 215
+./aligned_img\prashanth\prashanth95.png 165 75 268 217
+./aligned_img\prashanth\prashanth96.png 165 75 268 217
+./aligned_img\prashanth\prashanth97.png 167 80 265 213
+./aligned_img\prashanth\prashanth98.png 167 80 265 213
+./aligned_img\prashanth\prashanth99.png 164 83 265 218
+./aligned_img\sai pawan\pawan0.png 237 113 353 265
+./aligned_img\sai pawan\pawan1.png 236 109 355 265
+./aligned_img\sai pawan\pawan10.png 230 111 348 261
+./aligned_img\sai pawan\pawan100.png 205 112 368 331
+./aligned_img\sai pawan\pawan101.png 205 126 365 339
+./aligned_img\sai pawan\pawan102.png 205 126 365 339
+./aligned_img\sai pawan\pawan103.png 204 126 370 350
+./aligned_img\sai pawan\pawan104.png 204 126 370 350
+./aligned_img\sai pawan\pawan105.png 199 124 366 353
+./aligned_img\sai pawan\pawan106.png 199 124 366 353
+./aligned_img\sai pawan\pawan107.png 195 144 366 361
+./aligned_img\sai pawan\pawan108.png 195 144 366 361
+./aligned_img\sai pawan\pawan109.png 194 135 374 383
+./aligned_img\sai pawan\pawan11.png 230 110 349 264
+./aligned_img\sai pawan\pawan110.png 194 135 374 383
+./aligned_img\sai pawan\pawan111.png 188 157 371 395
+./aligned_img\sai pawan\pawan112.png 188 157 371 395
+./aligned_img\sai pawan\pawan113.png 182 155 382 412
+./aligned_img\sai pawan\pawan114.png 182 155 382 412
+./aligned_img\sai pawan\pawan115.png 175 144 384 437
+./aligned_img\sai pawan\pawan116.png 175 144 384 437
+./aligned_img\sai pawan\pawan117.png 169 150 389 452
+./aligned_img\sai pawan\pawan118.png 169 150 389 452
+./aligned_img\sai pawan\pawan119.png 170 157 395 460
+./aligned_img\sai pawan\pawan12.png 230 110 349 264
+./aligned_img\sai pawan\pawan120.png 170 157 395 460
+./aligned_img\sai pawan\pawan121.png 168 152 398 464
+./aligned_img\sai pawan\pawan122.png 168 152 398 464
+./aligned_img\sai pawan\pawan123.png 164 183 384 464
+./aligned_img\sai pawan\pawan124.png 164 183 384 464
+./aligned_img\sai pawan\pawan125.png 167 152 397 461
+./aligned_img\sai pawan\pawan126.png 167 152 397 461
+./aligned_img\sai pawan\pawan127.png 164 150 393 468
+./aligned_img\sai pawan\pawan128.png 164 150 393 468
+./aligned_img\sai pawan\pawan129.png 172 156 382 445
+./aligned_img\sai pawan\pawan13.png 232 109 349 262
+./aligned_img\sai pawan\pawan130.png 172 156 382 445
+./aligned_img\sai pawan\pawan131.png 172 156 382 445
+./aligned_img\sai pawan\pawan132.png 176 150 384 427
+./aligned_img\sai pawan\pawan133.png 185 167 369 402
+./aligned_img\sai pawan\pawan134.png 185 167 369 402
+./aligned_img\sai pawan\pawan135.png 186 141 361 378
+./aligned_img\sai pawan\pawan136.png 186 141 361 378
+./aligned_img\sai pawan\pawan137.png 192 144 358 364
+./aligned_img\sai pawan\pawan138.png 192 144 358 364
+./aligned_img\sai pawan\pawan139.png 195 138 348 338
+./aligned_img\sai pawan\pawan14.png 232 109 349 262
+./aligned_img\sai pawan\pawan140.png 195 138 348 338
+./aligned_img\sai pawan\pawan141.png 203 133 343 315
+./aligned_img\sai pawan\pawan142.png 203 133 343 315
+./aligned_img\sai pawan\pawan143.png 203 133 343 315
+./aligned_img\sai pawan\pawan144.png 210 115 343 294
+./aligned_img\sai pawan\pawan145.png 212 113 340 277
+./aligned_img\sai pawan\pawan146.png 212 113 340 277
+./aligned_img\sai pawan\pawan147.png 222 111 344 266
+./aligned_img\sai pawan\pawan148.png 222 111 344 266
+./aligned_img\sai pawan\pawan149.png 216 99 341 261
+./aligned_img\sai pawan\pawan15.png 237 110 353 265
+./aligned_img\sai pawan\pawan16.png 237 110 353 265
+./aligned_img\sai pawan\pawan17.png 236 112 352 264
+./aligned_img\sai pawan\pawan18.png 236 112 352 264
+./aligned_img\sai pawan\pawan19.png 235 108 353 266
+./aligned_img\sai pawan\pawan2.png 236 109 355 265
+./aligned_img\sai pawan\pawan20.png 235 108 353 266
+./aligned_img\sai pawan\pawan21.png 237 112 353 266
+./aligned_img\sai pawan\pawan22.png 237 112 353 266
+./aligned_img\sai pawan\pawan23.png 229 112 344 261
+./aligned_img\sai pawan\pawan24.png 229 112 344 261
+./aligned_img\sai pawan\pawan25.png 236 111 355 271
+./aligned_img\sai pawan\pawan26.png 236 111 355 271
+./aligned_img\sai pawan\pawan27.png 230 108 352 270
+./aligned_img\sai pawan\pawan28.png 230 108 352 270
+./aligned_img\sai pawan\pawan29.png 223 99 347 269
+./aligned_img\sai pawan\pawan3.png 238 111 355 264
+./aligned_img\sai pawan\pawan30.png 223 99 347 269
+./aligned_img\sai pawan\pawan31.png 214 107 335 264
+./aligned_img\sai pawan\pawan32.png 214 107 335 264
+./aligned_img\sai pawan\pawan33.png 221 117 339 279
+./aligned_img\sai pawan\pawan34.png 221 117 339 279
+./aligned_img\sai pawan\pawan35.png 225 126 341 286
+./aligned_img\sai pawan\pawan36.png 225 126 341 286
+./aligned_img\sai pawan\pawan37.png 213 122 346 293
+./aligned_img\sai pawan\pawan38.png 213 122 346 293
+./aligned_img\sai pawan\pawan39.png 192 121 326 298
+./aligned_img\sai pawan\pawan4.png 238 111 355 264
+./aligned_img\sai pawan\pawan40.png 192 121 326 298
+./aligned_img\sai pawan\pawan41.png 167 127 298 302
+./aligned_img\sai pawan\pawan42.png 167 127 298 302
+./aligned_img\sai pawan\pawan43.png 173 143 291 307
+./aligned_img\sai pawan\pawan44.png 173 143 291 307
+./aligned_img\sai pawan\pawan45.png 161 137 287 310
+./aligned_img\sai pawan\pawan46.png 161 137 287 310
+./aligned_img\sai pawan\pawan47.png 162 139 290 317
+./aligned_img\sai pawan\pawan48.png 162 139 290 317
+./aligned_img\sai pawan\pawan49.png 149 138 299 319
+./aligned_img\sai pawan\pawan5.png 236 111 353 265
+./aligned_img\sai pawan\pawan50.png 149 138 299 319
+./aligned_img\sai pawan\pawan51.png 161 120 327 331
+./aligned_img\sai pawan\pawan52.png 161 120 327 331
+./aligned_img\sai pawan\pawan53.png 179 121 347 331
+./aligned_img\sai pawan\pawan54.png 179 121 347 331
+./aligned_img\sai pawan\pawan55.png 183 124 350 334
+./aligned_img\sai pawan\pawan56.png 183 124 350 334
+./aligned_img\sai pawan\pawan57.png 184 112 353 341
+./aligned_img\sai pawan\pawan58.png 184 112 353 341
+./aligned_img\sai pawan\pawan59.png 196 122 365 345
+./aligned_img\sai pawan\pawan6.png 236 111 353 265
+./aligned_img\sai pawan\pawan60.png 196 122 365 345
+./aligned_img\sai pawan\pawan61.png 198 130 364 350
+./aligned_img\sai pawan\pawan62.png 198 130 364 350
+./aligned_img\sai pawan\pawan63.png 185 116 360 347
+./aligned_img\sai pawan\pawan64.png 185 116 360 347
+./aligned_img\sai pawan\pawan65.png 207 109 376 338
+./aligned_img\sai pawan\pawan66.png 207 109 376 338
+./aligned_img\sai pawan\pawan67.png 214 107 395 343
+./aligned_img\sai pawan\pawan68.png 214 107 395 343
+./aligned_img\sai pawan\pawan69.png 233 120 413 343
+./aligned_img\sai pawan\pawan7.png 236 111 354 265
+./aligned_img\sai pawan\pawan70.png 233 120 413 343
+./aligned_img\sai pawan\pawan71.png 242 119 413 340
+./aligned_img\sai pawan\pawan72.png 242 119 413 340
+./aligned_img\sai pawan\pawan73.png 266 137 409 330
+./aligned_img\sai pawan\pawan74.png 266 137 409 330
+./aligned_img\sai pawan\pawan75.png 275 132 418 324
+./aligned_img\sai pawan\pawan76.png 275 132 418 324
+./aligned_img\sai pawan\pawan77.png 276 128 435 343
+./aligned_img\sai pawan\pawan78.png 276 128 435 343
+./aligned_img\sai pawan\pawan79.png 281 142 426 339
+./aligned_img\sai pawan\pawan8.png 236 111 354 265
+./aligned_img\sai pawan\pawan80.png 281 142 426 339
+./aligned_img\sai pawan\pawan81.png 280 142 420 330
+./aligned_img\sai pawan\pawan82.png 280 142 420 330
+./aligned_img\sai pawan\pawan83.png 281 140 415 329
+./aligned_img\sai pawan\pawan84.png 281 140 415 329
+./aligned_img\sai pawan\pawan85.png 278 147 416 325
+./aligned_img\sai pawan\pawan86.png 278 147 416 325
+./aligned_img\sai pawan\pawan87.png 256 131 413 337
+./aligned_img\sai pawan\pawan88.png 256 131 413 337
+./aligned_img\sai pawan\pawan89.png 240 124 408 338
+./aligned_img\sai pawan\pawan9.png 230 111 348 261
+./aligned_img\sai pawan\pawan90.png 240 124 408 338
+./aligned_img\sai pawan\pawan91.png 228 122 403 340
+./aligned_img\sai pawan\pawan92.png 228 122 403 340
+./aligned_img\sai pawan\pawan93.png 223 113 387 331
+./aligned_img\sai pawan\pawan94.png 223 113 387 331
+./aligned_img\sai pawan\pawan95.png 217 125 380 328
+./aligned_img\sai pawan\pawan96.png 217 125 380 328
+./aligned_img\sai pawan\pawan97.png 215 127 375 333
+./aligned_img\sai pawan\pawan98.png 215 127 375 333
+./aligned_img\sai pawan\pawan99.png 205 112 368 331
+./aligned_img\shashank\s1.png 119 186 458 595
+./aligned_img\shashank\s10.png 221 228 554 611
+./aligned_img\shashank\s11.png 70 260 402 638
+./aligned_img\shashank\s12.png 109 256 437 629
+./aligned_img\shashank\s2.png 120 143 326 436
+./aligned_img\shashank\s3.png 356 602 556 856
+./aligned_img\shashank\s4.png 161 147 450 517
+./aligned_img\shashank\s6.png 232 198 589 638
+./aligned_img\shashank\s7.png 82 288 391 632
+./aligned_img\shashank\s8.png 105 250 438 626
+./aligned_img\shashank\s9.png 99 191 440 584
